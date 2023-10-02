@@ -20,7 +20,7 @@
         <dependency>
             <groupId>cn.dynamictp</groupId>
             <artifactId>dynamic-tp-spring-boot-starter-etcd</artifactId>
-            <version>1.0.8</version>
+            <version>1.1.1</version>
         </dependency>
         <dependency>
             <groupId>io.etcd</groupId>
